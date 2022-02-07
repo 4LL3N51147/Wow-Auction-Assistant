@@ -1,0 +1,8 @@
+spring:
+logging:
+  level:
+    org.springframework: WARN
+
+blizzard:
+  locale: "en_US"
+  api.access:
