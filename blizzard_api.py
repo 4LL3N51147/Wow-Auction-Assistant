@@ -4,8 +4,6 @@ from pprint import pprint
 REGION = "us"
 LOCALE = "en_US"
 
-CLIENT_ID = "d49a50fe6379445ab8b8becdd8e765b7"
-CLIENT_SECRET = "6n9FfFswhVMfROMso1v5dF0fczMM59fG"
 REALM_ID = 3676
 
 api_client = BlizzardApi(CLIENT_ID, CLIENT_SECRET)

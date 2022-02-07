@@ -1,4 +1,4 @@
-package com.allengcc.wowauctionassistant;
+package com.allenyang.wowauctionassistant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

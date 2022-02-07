@@ -1,4 +1,4 @@
-package com.allengcc.wowauctionassistant;
+package com.allenyang.wowauctionassistant;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
